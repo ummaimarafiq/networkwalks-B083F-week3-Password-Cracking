@@ -44,8 +44,9 @@ The same steps were repeated for PDF2 and PDF3.
 
 **Result:** All three passwords were recovered.
 
-![JTR PDF1](screenshots/03-jtr-pdf1.png)
-![JTR All 3](screenshots/04-jtr-all-3.png)
+![JTR PDF1](03-jtr-pdf1.png)
+
+![JTR All 3](04-jtr-all-3.png)
 
 ### 3.2 Password Cracking with Networkwalks Tools
 
@@ -59,8 +60,9 @@ For PDF1, I also demonstrated the browser-based Networkwalks tools:
 
 **Result:** PDF1 password recovered as good-luck.
 
-![Hash Calculator](screenshots/01-hash-calculator.png)
-![Password Cracker](screenshots/02-password-cracker.png)
+![Hash Calculator](01-hash-calculator.png)
+
+![Password Cracker](02-password-cracker.png)
 
 ---
 
@@ -78,9 +80,11 @@ For PDF1, I also demonstrated the browser-based Networkwalks tools:
 - nw{networkwalks_persistence_jtr_270521}
 - nw{cybersecurity_flag_captured_2608}
 
-![Flag 1](screenshots/05-flag-1.png)
-![Flag 2](screenshots/06-flag-2.png)
-![Flag 3](screenshots/07-flag-3.png)
+![Flag 1](05-flag-1.png)
+
+![Flag 2](06-flag-2.png)
+
+![Flag 3](07-flag-3.png)
 
 ---
 
@@ -109,7 +113,7 @@ All activities were performed within the authorized Networkwalks lab environment
 
 ## 7. Evidence
 
-All screenshots are in the screenshots folder.
+All screenshots are in the root of this repository.
 
 ---
 
